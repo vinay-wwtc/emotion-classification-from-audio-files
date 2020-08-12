@@ -1,0 +1,3 @@
+[console_scripts]
+emotion-extraction = emotion_extraction.__main__:main
+

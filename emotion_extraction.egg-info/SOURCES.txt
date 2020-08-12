@@ -1,0 +1,14 @@
+setup.py
+emotion_extraction/__init__.py
+emotion_extraction/__main__.py
+emotion_extraction/config.py
+emotion_extraction/create_features.py
+emotion_extraction/live_predictions.py
+emotion_extraction/neural_network.py
+emotion_extraction/plot_model.py
+emotion_extraction/tess_pipeline.py
+emotion_extraction.egg-info/PKG-INFO
+emotion_extraction.egg-info/SOURCES.txt
+emotion_extraction.egg-info/dependency_links.txt
+emotion_extraction.egg-info/entry_points.txt
+emotion_extraction.egg-info/top_level.txt
